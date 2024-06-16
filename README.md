@@ -1,4 +1,4 @@
-Hi 👋 My name is Zalimkhan Beslaneev
+Zalimkhan Beslaneev
 ====================================
 
 Software developer
